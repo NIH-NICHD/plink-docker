@@ -1,5 +1,5 @@
 # plink-docker
-
+[![Docker](https://github.com/adeslatt/plink-docker/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/adeslatt/plink-docker/actions/workflows/docker-publish.yml)
 Build a Container for bioconda plink
 
 Steps to build this docker container.
