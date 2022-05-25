@@ -1,4 +1,4 @@
-name: picard
+name: plink
 channels:
   - bioconda
   - defaults
