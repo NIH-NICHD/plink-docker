@@ -1,0 +1,6 @@
+name: plink
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - plink
